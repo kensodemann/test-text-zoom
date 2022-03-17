@@ -1,0 +1,7 @@
+{
+  "name": "test-text-zoom",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
