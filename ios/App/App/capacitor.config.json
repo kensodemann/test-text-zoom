@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "test-text-zoom",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
